@@ -19,7 +19,9 @@ This screen recording shows the automation script performing:
 - select the number of persons.
 - Booking a test ticket (mock data).
 
+### Demo
 
+![alt text](1.png)
 
-
+![alt text](image.png)
 
